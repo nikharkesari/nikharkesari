@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! I'm Nikhar Kesari</h1>
-<h3 align="center">An Electronics and Telecommunication Engineer having a passion for Machine Learning and Artificial Intelligence</h3>
+<h3 align="center">I am an Electronics and Telecommunication undergraduate student with a deep understanding in Machine 
+Learning and Artificial Intelligence. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikharkesari&label=Profile%20views&color=0e75b6&style=flat" alt="nikharkesari" /> </p>
 
