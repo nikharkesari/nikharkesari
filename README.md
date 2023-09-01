@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **kesarinikhar@gmail.com**
 
-- 📄 Know about my experiences [https://nikharkesari.github.io/nikharkesari/](https://nikharkesari.github.io/nikharkesari/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikharkesari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikharkesari" height="30" width="40" /></a>
