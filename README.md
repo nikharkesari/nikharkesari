@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=nikharkesari&label=Profile%20views&color=0e75b6&style=flat" alt="nikharkesari" /> </p>
 
-- 🔭 I’m currently working on [User-Interest-Based-Video-Summarization-Using-Machine-Learning](https://github.com/nikharkesari/User-Interest-Based-Video-Summarization-Using-Machine-Learning)
+- 🔭 I’m currently working on [User Interest Based Video Summarization Using Machine Learning](https://github.com/nikharkesari/User-Interest-Based-Video-Summarization-Using-Machine-Learning)
 
 - 🌱 I’m currently learning **NLP and Image Processing.**
 
